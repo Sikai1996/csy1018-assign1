@@ -1,0 +1,27 @@
+/*Sikai He*/
+/*16429428*/
+body{
+ background-image: url("../image/hi.jpg");
+ max-height: 50%;
+ max-width: 50%;
+ background-size: cover;
+ background-position: center;
+ position: relative;
+ margin: 0;
+ top: 0;
+ flex-direction:column;
+ justify-content: center;
+ text-align: center;
+ align-items: center;
+ align-self: center;
+}
+.container{
+  font-family:arial;
+  display:block;
+  align-items:center;
+  color:white;
+  align-items: stretch;
+  align-self: center;
+ justify-content: center;
+ position:relative;
+}
